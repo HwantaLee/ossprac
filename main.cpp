@@ -14,6 +14,6 @@ int main() {
 	cin >> major;
 
 	cout << "제 이름은 " << name << " 이고 전공은 " << major << "입니다." << endl;
-	cout << "제 학번은 " << student_num << "입니다." << endl;
+	cout << "제 학번은 " << student_num << "입니다." << endl; 
 	return 0;
 }
